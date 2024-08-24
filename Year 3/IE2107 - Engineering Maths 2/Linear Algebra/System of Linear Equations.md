@@ -33,5 +33,7 @@ Performing EROs will not change the solution of the linear system
 ```
 Re-arrange rows to make elimination easier (1 in the first row, first column)
 
+while (last row only has last coefficient that is non-zero) \
+	or
 
 ```
