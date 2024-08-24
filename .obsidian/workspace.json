@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Matrices.md"
+              }
             }
           },
           {
@@ -147,8 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eabef46e36a8c65e",
+  "active": "a04582374710795c",
   "lastOpenFiles": [
+    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra",
+    "Year 3/IE2107 - Engineering Maths 2/Matrices.md",
+    "Year 3/IE2107 - Engineering Maths 2",
     "Welcome.md",
     "Year 1/IE1005/Standard Library Functions.md",
     "Year 1/IE1005/Loops.md",
@@ -179,12 +184,9 @@
     "Year 2/S2 (LTU)/S7012E - Digital Communications/1 - Introduction.md",
     "Year 2/S2 (LTU)/F0067T - Snow and Ice/3 - Climate Change, Winter Tourism, Winter Business.md",
     "Year 2/S2 (LTU)/F0067T - Snow and Ice/2 - Classification of Snow and Snow Measurements.md",
-    "Year 2/S2 (LTU)/F0067T - Snow and Ice/1- Formation of Snow and Metamorphism.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Effective Mass.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications",
-    "Year 2/S2 (LTU)/F0067T - Snow and Ice",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals"
+    "Year 2/S2 (LTU)/F0067T - Snow and Ice"
   ]
 }
