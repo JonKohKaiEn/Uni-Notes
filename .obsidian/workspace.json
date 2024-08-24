@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04582374710795c",
+  "active": "eabef46e36a8c65e",
   "lastOpenFiles": [
+    "Welcome.md",
     "Year 1/IE1005/Standard Library Functions.md",
     "Year 1/IE1005/Loops.md",
     "Year 1/IE1005/How to Code.md",
@@ -183,7 +182,6 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Effective Mass.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Doping.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications",
     "Year 2/S2 (LTU)/F0067T - Snow and Ice",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals"
