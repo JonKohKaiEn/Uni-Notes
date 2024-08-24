@@ -22,13 +22,21 @@ Three possible outcomes
 - Unique solution
 - Many solutions
 - No solution
-# Elementary Row Operations (ERO)
+# Solving Linear Equations
+## Elementary Row Operations (ERO)
 3 types of ERO
 - Interchanging 2 rows ($R_{i} \leftrightarrow R_j$)
 - Multiplying a row by a non-zero constant ($R_{j}\leftarrow \alpha R_{j}, \alpha \neq 0$)
 - Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
 Performing EROs will not change the solution of the linear system
-# Gaussian Elimination
+## Definitions
+### Row Echelon (RE)
+- The leading non-zero term in each non-zero row is a **pivot**
+- A matrix is in RE form if all entries in a column below a pivot are zeros
+### Reduced Row Echelon (RRE)
+- A matrix is in RRE form if
+	- Matrix is in RE form
+## Gaussian Elimination
 Reduces a matrix to row echelon (RE) form
 ## Steps
 0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
