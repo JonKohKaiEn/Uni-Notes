@@ -10,8 +10,12 @@ a_{m1}x_{1} + a_{m2}x{2} + ... + a_{mn}x{n} = b_m \\
 $$
 The equations can be represented in the form of an augmented matrix
 $$
+\Large
 \begin{bmatrix}
-a_{11} & a_{12} & ... & a_{1n} & \bigm & b_1
+a_{11} & a_{12} & ... & a_{1n} & \bigm| & b_1 \\ 
+a_{21} & a_{22} & ... & a_{2n} & \bigm| & b_2 \\
+\vdots & \vdots & \ddots & \bigm| & \vdots  \\ 
+a_{m1} & a_{m2} & ... & a_{mn} & \bigm| & b_m \\
 \end{bmatrix}
 $$
 Three possible outcomes
