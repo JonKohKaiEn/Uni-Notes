@@ -11,8 +11,12 @@
             "id": "4c2760e0df48e5d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/IE2107 - Engineering Maths 2/Matrices.md"
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md"
               }
             }
           },
@@ -149,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04582374710795c",
+  "active": "4c2760e0df48e5d5",
   "lastOpenFiles": [
-    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra",
     "Year 3/IE2107 - Engineering Maths 2/Matrices.md",
+    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
+    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra",
     "Year 3/IE2107 - Engineering Maths 2",
     "Welcome.md",
     "Year 1/IE1005/Standard Library Functions.md",
@@ -186,7 +193,6 @@
     "Year 2/S2 (LTU)/F0067T - Snow and Ice/2 - Classification of Snow and Snow Measurements.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources",
-    "Year 2/S2 (LTU)/S7012E - Digital Communications",
-    "Year 2/S2 (LTU)/F0067T - Snow and Ice"
+    "Year 2/S2 (LTU)/S7012E - Digital Communications"
   ]
 }
