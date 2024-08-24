@@ -25,5 +25,7 @@ Three possible outcomes
 # Elementary Row Operations (ERO)
 3 types of ERO
 - Interchanging 2 rows ($R_{i} \leftrightarrow R_j$)
-- Multiplying a row by a non-zero constant ($R_{j}\leftarrow \alpha R_{j}, \alpha$)
-- 
+- Multiplying a row by a non-zero constant ($R_{j}\leftarrow \alpha R_{j}, \alpha \neq 0$)
+- Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
+Performing EROs will not change the solution of the linear system
+# Gaussian Elimination
