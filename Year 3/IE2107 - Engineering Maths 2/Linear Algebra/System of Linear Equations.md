@@ -7,7 +7,14 @@ a_{21}x_{1} + a_{22}x{2} + ... + a_{2n}x{n} = b_2 \\
 \quad \vdots \quad + \quad \vdots \qquad \qquad \quad \vdots \quad = \vdots \\
 a_{m1}x_{1} + a_{m2}x{2} + ... + a_{mn}x{n} = b_m \\
 \end{cases}
-$$ Three possible outcomes
+$$
+The equations can be represented in the form of an augmented matrix
+$$
+\begin{bmatrix}
+a_{11} & a_{12} & ... & a_{1n} & \bigm & b_1
+\end{bmatrix}
+$$
+Three possible outcomes
 - Unique solution
 - Many solutions
 - No solution
