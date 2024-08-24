@@ -41,8 +41,8 @@ Performing EROs will not change the solution of the linear system
 ## Gaussian Elimination
 Reduces a matrix to row echelon (RE) form
 ### Steps
-0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
-1) For each row n, eliminate all values 
+0) Re-arrange rows such that it is easier to do the reduction (pivot of first row is 1)
+1) For each row n, eliminate all values below the pivot
 
 ### Pseudocode
 ```
