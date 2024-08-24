@@ -40,6 +40,17 @@ Performing EROs will not change the solution of the linear system
 	- The pivot is the only non-zero value in its column
 ## Gaussian Elimination
 Reduces a matrix to row echelon (RE) form
-## Steps
+### Steps
 0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
-1) With $x_1$ in row 1 as the pivot, eliminate $x_1$ in all rows
+1) For each row n, 
+
+### Pseudocode
+```
+Rearrange the rows to make it easier to do the reduction (pivot of first row is 1)
+
+for n in range(1, n_rows) {
+	eliminate x_n in all rows below row n
+
+	if ()
+}
+```
