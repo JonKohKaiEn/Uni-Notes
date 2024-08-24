@@ -1,0 +1,40 @@
+# Intrinsic & Extrinsic Carriers
+- In order for an electron to move from $E_v$ to $E_c$ , it has to be removed from being a bonding electron
+- How to move more electrons into $E_c$ ?
+	- Increase temperature
+		- At low temperatures, all electrons are below $E_v$ , so semiconductor acts as insulator
+		- At higher temperatures, some electrons can jump to $E_c$ , so semiconductor can act as conductor
+	- Incident light (use $E_g = \dfrac{hc}{\lambda}$ to calculate minimum wavelength required)
+	- Doping
+		- N-type doping
+			- Introducing elements with more valence electrons (generally Group V)
+			- Extra electrons are not used in bonding, so they are easier to move to $E_c$ 
+			- Can be represented on the energy band diagram by drawing a line just under $E_c$ 
+				- Distance to $E_c$ is smaller, so the electrons require less energy to jump to $E_c$ 
+		- P-type doping
+			- Introducing elements with lesser valence electrons (generally Group III)
+			- Can be described as "holes" moving around as charge carriers
+			- Can be represented on the energy band diagram by drawing a line just above $E_v$
+				- Electron from $E_v$ can easily jump to the empty energy level, leaving a hole at $E_v$
+		- Binding energy of electron
+			- $E_n = -\dfrac{q^4}{2(4\pi\hbar)^2}\left(\dfrac{m_0}{\epsilon_r^2\epsilon_0^2}\right)\dfrac{1}{n^2}$ 
+			- Can be estimated by hydrogen atom, where $E_n = -\dfrac{13.6}{n^2}eV$
+
+# Temperature Dependence
+- We can use $\dfrac{n}{N_D}$ to describe the effects of temperature
+	- $n$ : Number of electrons in conduction band
+	- $N_D$ : Number of dopant atoms
+- 3 temperature phases of a doped semiconductor
+	- Freeze out
+		- $n < N_D \implies \dfrac{n}{N_D}<1$
+		- Not all of the dopant electrons have been ionized
+		- $n$ increases as temperature increases
+	- Extrinsic T-region
+		- $n = N_D \implies \dfrac{n}{N_D}=1$
+		- All of the dopant electrons have been ionized
+		- $n$ does not increase as temperature increases
+	- Intrinsic T-region
+		- $n > N_D \implies \dfrac{n}{N_D}>1$
+		- Electrons from the intrinsic material start to be ionized
+		- n increases as temperature increases
+- When the semiconductor is in "Freeze out" or "Intrinsic T-region", the carrier density is uncontrollable -> conductivity can change -> behaviour can become unpredictable

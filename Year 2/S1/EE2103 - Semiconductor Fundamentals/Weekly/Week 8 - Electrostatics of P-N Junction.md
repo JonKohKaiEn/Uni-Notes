@@ -1,0 +1,27 @@
+# Formation Mechanism of P-N Junction
+- A P-N junction is formed when a p-type semiconductor is joined with a n-type semiconductor
+- Diffusion will occur since there is a difference in concentration of electrons / holes
+- Departure of electrons leaves behind the immobile donor ions, creating a positively charged region
+	- Same thing happens to the holes, leaving behind a negatively charged region
+- The charged region caused by this diffusion is called the space charge region
+- This charge separation causes an electric field to be generated
+- The electric field causes drift of electrons and holes
+- The diffusion current is cancelled out by the drift current, so no net movement of mobile carriers
+	- $qp\mu_n\xi + qD_n\frac{\partial n}{\partial x} = 0$ (electrons), $qp\mu_p\xi - qD_p\frac{\partial p}{\partial x} = 0$ (holes)
+- For a P-N junction, $E_f$ is the same (represented on band diagram by shifting the band diagrams vertically)
+- Poisson's equation: $\huge\frac{\partial^2 V}{\partial x^2} = -\frac{\rho(x)}{\epsilon_r \epsilon_0} = -\frac{\partial \xi}{\partial x}$
+	- Volume charge density: $\rho (x) = qN_D + qp(x) - qN_A - qn(x)$
+		- Since there are negligible mobile carriers, $\rho \approx qN_D - qN_A$
+		- We can derive that $\huge\xi(x) = -\frac{qN_A}{\epsilon_r \epsilon_0}(x + x_{p0}), -x_{p0} \leq x \leq 0$ (p-region)
+- Built-in Voltage
+	- The built-in voltage is the area under the $\xi-x$ graph
+		- Built-in voltage: $\huge V_{bi} = \frac{1}{2} \left| \xi_m \right| (x_{n0} + x_{p0}) = \frac{\left|\xi_m\right| W_0}{2}$
+		- Maximum electric field: $\huge|\xi_m| = |\xi(x=0)| = \frac{qN_Ax_{p0}}{\epsilon_r\epsilon_0} = \frac{qN_Dx_{n0}}{\epsilon_r\epsilon_0}$
+		- We can substitute $|\xi_m|$ into $V_{bi}$ to get $\huge V_{bi} = \frac{qN_Ax_{p0}}{2\epsilon_r\epsilon_0} (x_{n0} + x_{p0}) = \frac{qN_Dx_{n0}}{2\epsilon_r\epsilon_0} (x_{n0} + x_{p0})$
+- Space Charge Width
+	- $\huge W_0 = x_{n0} + x_{p0} = \left[\frac{2\epsilon_r\epsilon_0V_{bi}}{q}\left(\frac{N_A+N_D}{N_A N_D}\right)\right]^{\frac{1}{2}}$
+		- We can use this together with charge neutrality equation ($N_Dx_n = N_Ax_p$) to solve for $x_n$ and $x_p$
+- The built-in voltage acts as a barrier, hindering electrons and holes from diffusing over to the other side
+# Numerical Analysis of P-N Junction
+- 2nd method to calculate $V_{bi}$
+	- $\huge V_{bi} = \frac{kT}{q}ln\left(\frac{N_AN_D}{n_i^2}\right)$

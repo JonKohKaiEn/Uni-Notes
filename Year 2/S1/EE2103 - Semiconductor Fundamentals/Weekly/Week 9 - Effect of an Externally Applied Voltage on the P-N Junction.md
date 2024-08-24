@@ -1,0 +1,28 @@
+# P-N Junction Under Applied Bias
+- Forward bias
+	- Positive bias to p-type side, negative bias to n-type side
+	- Holes and electrons are pushed towards the middle, so $x_p$ and $x_n$ change
+		- Space charge region becomes smaller
+	- Applied electric field, $\xi_a$ is opposite in direction to $\xi_{bi}$
+		- $\xi = \xi_0 - \xi_a$
+	- Fermi level is split into $E_{Fp}$ and $E_{Fn}$
+		- $E_{Fp}$ moves down, $E_{Fn}$ moves up
+	- $V_{bi}$ will decrease, allowing more carriers to diffuse
+- Negative bias
+	- Negative bias to p-type side, positive bias to p-type side
+	- Holes and electrons are pulled to the edges
+		- Space charge level becomes bigger
+	- $\xi_a$ is in the same direction as $\xi_{bi}$
+		- $\xi = \xi_0 + \xi_a$
+	- Fermi level splits
+		- $E_{Fp}$ moves up, $E_{Fn}$ moves down
+	- $V_{bi}$ will increase, so less carriers can diffuse
+-  Space charge width becomes: $\huge W = \left[\frac{2\epsilon_r\epsilon_0(V_{bi} - V_a)}{q}\left(\frac{N_A+N_D}{N_A N_D}\right)\right]^{\frac{1}{2}}$
+# Minority Carrier Distribution Under Applied Bias
+- Definitions
+	- $n_{p0}$ : concentration of minority carriers (electrons) in p-type at thermal equilibrium
+	- $n_p$ : concentration of minority carriers (electrons) in p-type under bias
+	- $p_{n0}$ : concentration of minority carriers (holes) in n-type at thermal equilibrium
+	- $p_n$ : concentration of minority carriers (holes) in n-type under bias
+- For forward bias, minority carriers are injected
+- For reverse bias, minority carriers are extracted

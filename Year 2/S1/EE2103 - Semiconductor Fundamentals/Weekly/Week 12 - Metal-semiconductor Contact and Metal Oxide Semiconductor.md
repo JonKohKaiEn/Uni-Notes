@@ -1,0 +1,49 @@
+# Metal-semiconductor contact
+- Schottky contact
+	- Behaves like p-n junction
+		- Carriers flow into only one side
+	- Space charge width
+		- When a metal comes into contact with a semiconductor, electrons can easily flow into the metal
+		- Since there is a net flow towards the metal, a space charge region (depletion region) is formed
+		- Since $N_a >> N_d$ , $W = \left[\frac{2\epsilon V_o}{q} \left(\frac{1}{N_d}\right) \right]^\frac{1}{2}$
+	- External bias
+		- Behaves similar to p-n junction
+		- Schottky diode is a majority carrier device (p-n diode is minority carrier device)
+		- Can still use $I = I_0\left(exp\left[\frac{qV}{kT}\right]-1\right)$
+- Ohmic contact
+	- Behaves like a normal wire
+		- Carriers flow both ways
+	- Almost no barrier (space charge region does not form)
+- Field Effect Transistor
+	- 3 parts
+		- Source: Supplies carriers
+		- Drain: Collects carriers
+		- Gate: Controls carrier flow
+	- n-channel FET
+		- Channel carriers are electrons
+		- Drain voltage w.r.t source ($V_{DS}$) is positive
+		- Electrons flow from source to drain
+			- Direction of current is from drain to source
+	- p-channel FET
+		- Channel carriers are holes
+		- Drain voltage w.r.t source ($V_{DS}$) is negative
+		- Holes flow from source to drain
+			- Direction of current is from source to drain
+			- By convention, current ($I_D$) is defined as positive going from drain to source, so current is negative for p-channel FET
+# Metal Oxide Semiconductor
+- Accumulation ($V_G < 0$)
+	- Negative voltage applied on metal side
+	- Holes accumulate at interface region -> interface region becomes more p-type than bulk region
+	- Band is bent upwards from bulk to interface
+- Depletion ($V_G > 0$)
+	- Positive voltage applied on metal side
+	- Holes are depleted from the interface -> interface becomes less p-type than bulk region
+	- Band is bent downwards from bulk to interface
+- Inversion ($V_G >> 0$)
+	- More holes are removed from interface
+	- More band bending occurs
+	- Intrinsic Fermi level at the surface is below the Fermi level
+	- Surface is inverted from p-type to n-type
+- MOSFET
+	- Enhancement mode: Channel not present, apply voltage to create channel
+	- Depletion mode: Channel present, apply voltage to remove channel

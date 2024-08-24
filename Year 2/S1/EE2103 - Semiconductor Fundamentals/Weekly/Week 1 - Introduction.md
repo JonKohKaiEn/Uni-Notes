@@ -1,0 +1,13 @@
+- Electrons around an atom occupy energy levels
+	- Nearer to the nucleus -> Lower Energy
+	- Further from the nucleus -> Higher Energy
+- When a large number of atoms are placed together, energy bands can be formed
+	- $E_v$ : Valence Band
+	- $E_c$ : Conduction Band
+	- $E_g$ : Energy Band Gap
+- What we can learn from band structure
+	- Steepness of the curvature tells us about the effective mass of the electron
+		- Effective mass is inversely proportional to the curvature of E-k graph
+	- Can tell us if it is a direct or indirect band gap
+		- If the maxima of the valence band is aligned (similar k value) to the minima of the conduction band, then it is a direct band gap
+		- If it is direct band gap, electrons in $E_c$ do not have to lose much energy before being able to drop to $E_v$

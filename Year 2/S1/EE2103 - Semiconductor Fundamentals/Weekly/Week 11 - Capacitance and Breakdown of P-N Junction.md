@@ -1,0 +1,23 @@
+# Capacitance of P-N Junction
+- Junction capacitance ($C_j$)
+	- Comes from the space charge region
+	- $C = \frac{\epsilon A}{d}$
+		- Forward bias
+			- Space charge region decreases -> $d$ decreases -> capacitance increases
+		- Reverse bias
+			- Space charge region increases -> $d$ increases -> capacitance decreases
+	- $\huge C_j = \epsilon A \left[\frac{q}{2\epsilon(V_{bi}-V_a)} \frac{N_aN_d}{N_a+N_d} \right]^{\frac{1}{2}} = \frac{\epsilon A}{W}$
+- Storage charge capacitance ($C_s$)
+	- Comes from the stored minority charge carriers in the neutral n and p regions
+	- $\huge C_s = \frac{q}{kT} Q_p = \frac{q}{kT} I\tau_p$
+- Under forward bias, $C_s$ is dominant due to large $I$
+- Under reverse bias, $C_j$ is dominant due to small $C_s$
+# Breakdown of P-N Junction
+- 2 mechanisms
+	- Zener breakdown
+		- Occurs in highly doped p-n junction via quantum tunneling
+	- Avalanche breakdown
+		- Occurs via collision of mobile charge carriers with lattice atoms (impact ionization)
+- Breakdown voltage
+	- Breakdown occurs when the electric field is greater than the maximum electric field ($\xi_m$)
+	- $\huge V_{br} = \frac{\epsilon_r\epsilon_o (N_a + N_d)}{2qN_aN_d}E_c$

@@ -1,0 +1,7 @@
+- In a crystal structure, there are internal forces that act on the particle, giving rise to an "effective mass"
+- The effective mass can be calculated by the equation $E = \dfrac{\hbar^2k^2}{2m}$
+	- Commonly simplified as $E = Ck^2$, where $C = \dfrac{\hbar^2}{2m}$
+	- E can be $E - E_c$ or $E_v-E$ depending on what is given
+- Effective mass is also given by $m^{*} = \left(\dfrac{1}{\hbar^2}\dfrac{d^2E}{dk^2}\right)^{-1}$ 
+	- From this, $m^{*}$ is inversely proportional to $\left(\dfrac{d^2E}{dk^2}\right)^{-1}$
+		- Sharper curve -> larger $\dfrac{d^2E}{dk^2}$ -> lower effective mass and vice-versa
