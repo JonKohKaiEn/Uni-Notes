@@ -29,6 +29,7 @@ Three possible outcomes
 - Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
 Performing EROs will not change the solution of the linear system
 # Gaussian Elimination
+Reduces a matrix to row echelon (RE) form
 ## Steps
 0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
 1) Use EROs to eliminate $x_1$ in all other rows
