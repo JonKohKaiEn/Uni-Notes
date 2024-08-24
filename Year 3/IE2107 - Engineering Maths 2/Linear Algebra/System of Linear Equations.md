@@ -35,7 +35,7 @@ Re-arrange rows to make elimination easier (1 in the first row, first column)
 
 while (last row only has last coefficient that is non-zero) or (last row has a contradiction) or (unable to reduce further) {
 
-	
+	eliminate 
 }
 
 ```
