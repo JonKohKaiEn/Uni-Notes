@@ -30,4 +30,5 @@ Three possible outcomes
 Performing EROs will not change the solution of the linear system
 # Gaussian Elimination
 ## Steps
+0) Re-arrange the rows so that it is easier to do the eliminations (have a 1 in the first column)
 1) 
