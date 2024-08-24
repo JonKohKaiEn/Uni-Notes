@@ -42,5 +42,4 @@ Performing EROs will not change the solution of the linear system
 Reduces a matrix to row echelon (RE) form
 ## Steps
 0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
-1) Use EROs to eliminate $x_1$ in all other rows
-2) Repeat step 1 
+1) With $x_1$ in row 1 as the pivot, eliminate $x_1$ in all rows
