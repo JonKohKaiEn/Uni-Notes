@@ -29,6 +29,9 @@ Three possible outcomes
 - Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
 Performing EROs will not change the solution of the linear system
 # Gaussian Elimination
-## Steps
-0) Re-arrange the rows so that it is easier to do the eliminations (have a 1 in the first column)
-1) 
+## Pseudocode
+```
+Re-arrange rows to make elimination easier (1 in the first row, first column)
+
+
+```
