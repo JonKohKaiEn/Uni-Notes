@@ -42,15 +42,5 @@ Performing EROs will not change the solution of the linear system
 Reduces a matrix to row echelon (RE) form
 ### Steps
 0) Re-arrange rows such that it is easier to do the reduction (pivot of first row is 1)
-1) For each row n, eliminate all values below the pivot
-
-### Pseudocode
-```
-Rearrange the rows to make it easier to do the reduction (pivot of first row is 1)
-
-for n in range(1, n_rows) {
-	eliminate x_n in all rows below row n
-
-	if ()
-}
-```
+1) For each row n, eliminate all values below the pivot of row n
+2) If last 
