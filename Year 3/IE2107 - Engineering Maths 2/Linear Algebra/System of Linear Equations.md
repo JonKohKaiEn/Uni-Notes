@@ -24,10 +24,10 @@ Three possible outcomes
 - No solution
 # Solving Linear Equations
 ## Elementary Row Operations (ERO)
-3 types of ERO
-- Interchanging 2 rows ($R_{i} \leftrightarrow R_j$)
-- Multiplying a row by a non-zero constant ($R_{j}\leftarrow \alpha R_{j}, \alpha \neq 0$)
-- Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
+3 types of ERO:
+1) Interchanging 2 rows ($R_{i} \leftrightarrow R_j$)
+2) Multiplying a row by a non-zero constant ($R_{j}\leftarrow \alpha R_{j}, \alpha \neq 0$)
+3) Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
 Performing EROs will not change the solution of the linear system
 ## Definitions
 ### Row Echelon (RE)
@@ -35,7 +35,9 @@ Performing EROs will not change the solution of the linear system
 - A matrix is in RE form if all entries in a column below a pivot are zeros
 ### Reduced Row Echelon (RRE)
 - A matrix is in RRE form if
-	- Matrix is in RE form
+	- Matrix satisfies RE form
+	- Each pivot is a 1
+	- The pivot is the only non-zero value in its column
 ## Gaussian Elimination
 Reduces a matrix to row echelon (RE) form
 ## Steps
