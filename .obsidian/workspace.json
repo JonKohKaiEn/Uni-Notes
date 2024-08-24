@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3aec32d40fc40470",
+        "id": "1ae130f11ba0d87a",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2760e0df48e5d5",
+            "id": "7b2c34e169a0d79b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md"
+              }
             }
           },
           {
@@ -157,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c2760e0df48e5d5",
+  "active": "7b2c34e169a0d79b",
   "lastOpenFiles": [
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
