@@ -29,3 +29,5 @@ Three possible outcomes
 - Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
 Performing EROs will not change the solution of the linear system
 # Gaussian Elimination
+## Steps
+1) 
