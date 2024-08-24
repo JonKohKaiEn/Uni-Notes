@@ -31,4 +31,5 @@ Performing EROs will not change the solution of the linear system
 # Gaussian Elimination
 ## Steps
 0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
-1) 
+1) Use EROs to eliminate $x_1$ in all other rows
+2) Repeat step 1 
