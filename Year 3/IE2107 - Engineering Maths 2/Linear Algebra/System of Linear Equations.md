@@ -29,13 +29,6 @@ Three possible outcomes
 - Adding a multiple of one row to another ($R_{j} \leftarrow R_{j} + \beta R_i$)
 Performing EROs will not change the solution of the linear system
 # Gaussian Elimination
-## Pseudocode
-```
-Re-arrange rows to make elimination easier (1 in the first row, first column)
-
-while (last row only has last coefficient that is non-zero) or (last row has a contradiction) or (unable to reduce further) {
-
-	eliminate 
-}
-
-```
+## Steps
+0) Re-arrange rows such that it is easier to do the reduction ($x_1$ has a coefficient of 1 in the first row)
+1) 
