@@ -9,4 +9,6 @@ a_{m1}x_{1} + a_{m2}x{2} + ... + a_{mn}x{n} = b_m \\
 \end{cases}
 $$ Three possible outcomes
 - Unique solution
-- Many 
+- Many solutions
+- No solution
+
