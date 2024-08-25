@@ -57,3 +57,16 @@ Size is inferred when used in block matrices
 $(A^{T})_{ij}= A_{ji}$ 
 - Swap the rows and columns
 - Converts column vectors to row vectors (and vice versa)
+- $A$
+$$
+\Large
+\begin{bmatrix}
+A & B \\ 
+C & D
+\end{bmatrix}^T
+=
+\begin{bmatrix}
+A^{T} & C^{T} \\ 
+B^{T} & D^{T}
+\end{bmatrix}
+$$
