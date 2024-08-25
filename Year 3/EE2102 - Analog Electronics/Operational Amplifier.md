@@ -39,7 +39,7 @@ $$
 Since positive terminal is connected to GND,
 $$
 \large
-v_{-} = 0
+\therefore v_{-} = 0
 $$
 $$
 \large
@@ -48,7 +48,15 @@ $$
 Since
 $$
 \large
-I_{-} = 0 
+I_{-} = 0,
+$$
+$$
+\large
+\therefore I_{R_{2}} = I_{R_{1}}
+$$
+$$
+\large
+
 $$
 - For ideal op-amp with negative feedback, $v_{\epsilon} = v_{-} - v_{+} = 0$
 - Since $I_{-} = I_{+} = 0$ , $v_{\epsilon} = 0$ , $R_{in} = \infty$
