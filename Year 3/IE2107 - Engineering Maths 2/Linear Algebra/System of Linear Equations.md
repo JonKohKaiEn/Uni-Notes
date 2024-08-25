@@ -41,7 +41,7 @@ Performing EROs will not change the solution of the linear system
 ## Gaussian Elimination
 Converts a matrix to row echelon (RE) form
 ### Steps
-1) Re-arrange rows such that it is easier to do the reduction (pivot of first row is 1)
+1) Re-arrange rows such that it is easier to do the reduction (preferably with pivot of first row is 1)
 2) For each row n, eliminate all values below the pivot of row n
 3) Stop when matrix is in RE form
 ### Cases
@@ -55,4 +55,4 @@ Converts a matrix to row echelon (RE) form
 ## Gauss-Jordan Elimination
 ### Steps
 1) Use Gaussian Elimination to convert the matrix to RE form
-2) Starting from the last row, 
+2) 
