@@ -24,3 +24,14 @@ $$
 - Conditions
 	- Matrices in each block row must have the same number of rows
 	- Matrices in each block column must have the same number or columns
+# Special Matrices
+## Identity Matrix
+The identity matrix $I$ is:
+- A square matrix
+- $I_{ii} = 1$
+- $I_{ij} = 0$, where $i \neq j$
+$$
+\begin{bmatrix}
+0
+\end{bmatrix}
+$$
