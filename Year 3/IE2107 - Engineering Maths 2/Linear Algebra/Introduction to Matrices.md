@@ -46,4 +46,9 @@ Size is inferred when used in block matrices
 ## Diagonal and Triangular Matrices
 ### Diagonal Matrix
 - Square matrix where $A_{ij}=0$, where $i \neq j$
-- 
+- $diag(a_1,...,a_n)$ denotes the diagonal matrix with $A_{ii} = a_i$ for $i=1,...,n$
+### Triangular Matrix
+- Lower triangular matrix
+	- $A_{ij}=0$ for $i \lt j$
+- Upper triangular matrix
+	- 
