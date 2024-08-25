@@ -23,7 +23,6 @@ Only negative feedback is tested in the course :)
 
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
-- For ideal op-amp with negative feedback, $v_{-} - v_{+} = 0$
-	- $I_{-} = I_{+} = 0$
-	- Since there is no current flow between the inputs, there is no potential difference
-	- Therefore, 
+- For ideal op-amp with negative feedback, $v_{\epsilon} = v_{-} - v_{+} = 0$
+- Since $I_{-} = I_{+} = 0$ , $v_{\epsilon} = 0$ , $R_{in} = \infty$
+	- 
