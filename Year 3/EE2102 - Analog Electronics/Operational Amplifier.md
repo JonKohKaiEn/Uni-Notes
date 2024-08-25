@@ -23,7 +23,6 @@ Only negative feedback is tested in the course :)
 
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
-For ideal op-amp with negative feedback
 $$
-\frac{v_{out}}{v_{in}} = - \frac{R_{2}}{R_{1}} = A_{vCL}
+A_{vCL} = \frac{v_{out}}{v_{in}} = - \frac{R_{2}}{R_{1}}
 $$
