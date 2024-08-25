@@ -53,7 +53,7 @@ Converts a matrix to row echelon (RE) form
 - Last row has contradiction
 	- No solution
 ## Gauss-Jordan Elimination
-Converts a matrix in
+Converts a matrix to reduced row echelon (RRE) form
 ### Steps
 1) Use Gaussian Elimination to convert the matrix to RE form
 2) Starting from the bottom row, eliminate all values above the pivot
