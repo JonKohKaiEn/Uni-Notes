@@ -55,4 +55,5 @@ Converts a matrix to row echelon (RE) form
 ## Gauss-Jordan Elimination
 ### Steps
 1) Use Gaussian Elimination to convert the matrix to RE form
-2) 
+2) Starting from the bottom row, eliminate all values above the pivot
+3) Scale all rows such that all pivots have a value of 1
