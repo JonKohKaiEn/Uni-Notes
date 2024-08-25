@@ -43,4 +43,4 @@ The identity matrix $I$ is:
 - $I_{ii} = 1$
 - $I_{ij} = 0$, where $i \neq j$
 Size is inferred when used in block matrices
-## Diagonal 
+## Diagonal and Triangular Matrices
