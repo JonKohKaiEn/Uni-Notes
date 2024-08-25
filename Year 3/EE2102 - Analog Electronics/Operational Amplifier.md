@@ -25,3 +25,4 @@ Only negative feedback is tested in the course :)
 
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
+- 
