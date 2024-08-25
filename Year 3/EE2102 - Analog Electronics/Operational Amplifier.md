@@ -26,12 +26,25 @@ Only negative feedback is tested in the course :)
 For ideal op-amp with negative feedback,
 $$\large v_{\epsilon} = v_{-} - v_{+} = 0$$
 Since
-$$ \large
+$$
+\large
 I_{-} = I_{+} = 0,
 v_{\epsilon} = 0,
 R_{in} = \infty,
 $$
-
+$$
+\large
+v_{+} = v_{-}
+$$
+Since positive terminal is connected to GND,
+$$
+\large
+v_{-} = 0
+$$
+$$
+\large
+I_{R_{1}}
+$$
 - For ideal op-amp with negative feedback, $v_{\epsilon} = v_{-} - v_{+} = 0$
 - Since $I_{-} = I_{+} = 0$ , $v_{\epsilon} = 0$ , $R_{in} = \infty$
 	- $v_{+} = v_{-}$
