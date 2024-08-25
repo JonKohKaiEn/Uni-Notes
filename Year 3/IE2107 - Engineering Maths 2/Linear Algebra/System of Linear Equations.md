@@ -55,4 +55,4 @@ Converts a matrix to row echelon (RE) form
 ## Gauss-Jordan Elimination
 ### Steps
 1) Use Gaussian Elimination to convert the matrix to RE form
-2) 
+2) Starting from the last row, 
