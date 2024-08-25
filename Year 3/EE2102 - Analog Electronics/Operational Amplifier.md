@@ -39,6 +39,10 @@ $$
 Since positive terminal is connected to GND,
 $$
 \large
+v_{+} = 0
+$$
+$$
+\large
 \therefore v_{-} = 0
 $$
 $$
@@ -56,14 +60,9 @@ $$
 $$
 $$
 \large
-
+I_{R_{2}} = \frac{v_{-} - v_{out}}{R_{2}}
 $$
-- For ideal op-amp with negative feedback, $v_{\epsilon} = v_{-} - v_{+} = 0$
-- Since $I_{-} = I_{+} = 0$ , $v_{\epsilon} = 0$ , $R_{in} = \infty$
-	- $v_{+} = v_{-}$
-	- Since positive terminal is connected to ground, $v_{+} = 0$
-	- Therefore, $v_{-} = 0$
-- $\large I_{R_{1}} = \frac{v_{in} - v_{-}}{R_{1}}$
-	- Since $I_{-} = 0$ , $I_{R_{2}} = I_{R_{1}}$
-	- $\large I_{R_{2}} = \frac{v_{-} - v_{out}}{R_{2}}$
-	- Therefore, 
+$$
+\large
+\therefore \frac{v_{in} - v_{-}}{R_{1}} = \frac{v_{-} - v_{out}}{R_{2}}
+$$
