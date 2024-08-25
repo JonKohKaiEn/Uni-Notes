@@ -24,5 +24,6 @@ Only negative feedback is tested in the course :)
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
 $$
+\Large
 A_{vCL} = \frac{v_{out}}{v_{in}} = - \frac{R_{2}}{R_{1}}
 $$
