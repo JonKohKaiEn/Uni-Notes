@@ -44,4 +44,4 @@ Reduces a matrix to row echelon (RE) form
 1) Re-arrange rows such that it is easier to do the reduction (pivot of first row is 1)
 2) For each row n, eliminate all values below the pivot of row n
 ### Cases
-- Pivot of last row is 
+- Pivot of last row is in 
