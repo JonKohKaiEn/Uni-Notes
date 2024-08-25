@@ -26,7 +26,8 @@ $$
 	- Matrices in each block column must have the same number or columns
 # Special Matrices
 ## Zero Matrix
-The zero matrix has all elements as 0
+- The zero matrix has all elements as 0, written as $0_{m \times n}$ or just $0$
+- Size is inferred when used in block matrices
 ## Identity Matrix
 $$
 \large
@@ -41,4 +42,5 @@ The identity matrix $I$ is:
 - A square matrix
 - $I_{ii} = 1$
 - $I_{ij} = 0$, where $i \neq j$
-Identity matrices can be 
+Size is inferred when used in block matrices
+## Diagonal 
