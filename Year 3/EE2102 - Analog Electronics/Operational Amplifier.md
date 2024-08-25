@@ -23,55 +23,7 @@ Only negative feedback is tested in the course :)
 
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
-For ideal op-amp with negative feedback,
-$$\large v_{\epsilon} = v_{-} - v_{+} = 0$$
-Since
+For ideal op-amp with negative feedback
 $$
-\large
-I_{-} = I_{+} = 0,
-v_{\epsilon} = 0,
-R_{in} = \infty,
-$$
-$$
-\large
-v_{+} = v_{-}
-$$
-Since positive terminal is connected to GND,
-$$
-\large
-v_{+} = 0
-$$
-$$
-\large
-\therefore v_{-} = 0
-$$
-$$
-\large
-I_{R_{1}} = \frac{v_{in} - v_{-}}{R_{1}}
-$$
-Since
-$$
-\large
-I_{-} = 0,
-$$
-$$
-\large
-\therefore I_{R_{2}} = I_{R_{1}}
-$$
-$$
-\large
-I_{R_{2}} = \frac{v_{-} - v_{out}}{R_{2}}
-$$
-$$
-\large
-\therefore \frac{v_{in} - v_{-}}{R_{1}} = \frac{v_{-} - v_{out}}{R_{2}}
-$$
-$$
-\large
-\frac{v_{in}}{R_{1}} = - \frac{v_{out}}{R_{2}}
-$$
-$$
-\large
-\color{red}
 \frac{v_{out}}{v_{in}} = - \frac{R_{2}}{R_{1}} = A_{vCL}
 $$
