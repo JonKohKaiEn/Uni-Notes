@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7c6ff2cf6bf67ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md"
+                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md"
               }
             }
           },
@@ -150,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b2c34e169a0d79b",
+  "active": "d7c6ff2cf6bf67ba",
   "lastOpenFiles": [
-    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
+    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
+    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
     "Year 3/IE2107 - Engineering Maths 2/Matrices.md",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra",
@@ -197,7 +212,6 @@
     "Year 2/S2 (LTU)/S7012E - Digital Communications/3 - Baseband and Passband Signals.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/2 - Matched Filters and Bandwidth.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/1 - Introduction.md",
-    "Year 2/S2 (LTU)/F0067T - Snow and Ice/3 - Climate Change, Winter Tourism, Winter Business.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources",
     "Year 2/S2 (LTU)/S7012E - Digital Communications"
