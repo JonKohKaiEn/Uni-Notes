@@ -43,7 +43,7 @@ v_{-} = 0
 $$
 $$
 \large
-I_{R_{1}}
+I_{R_{1}} = \frac{v_{in} - v_{-}}{R_{1}}
 $$
 - For ideal op-amp with negative feedback, $v_{\epsilon} = v_{-} - v_{+} = 0$
 - Since $I_{-} = I_{+} = 0$ , $v_{\epsilon} = 0$ , $R_{in} = \infty$
