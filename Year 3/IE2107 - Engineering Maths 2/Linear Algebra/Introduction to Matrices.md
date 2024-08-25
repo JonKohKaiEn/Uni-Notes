@@ -20,3 +20,7 @@ $$
 - A $1 \times n$ matrix is called a row vector
 - A $1 \times 1$ matrix is considered a number
 ## Block Matrices
+- Block matrices are made with matrices as the entries
+- Conditions
+	- Matrices in each block row must have the same number of rows
+	- Matrices in each block column must have the same number or columns
