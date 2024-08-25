@@ -54,4 +54,6 @@ Size is inferred when used in block matrices
 	- $A_{ij}=0$ for $i \gt j$
 # Operations
 ## Transpose
-$(A^T)_$
+$(A^{T})_{ij}= A_{ji}$ 
+- Swap the rows and columns
+- Converts column vectors to row vectors (and vice versa)
