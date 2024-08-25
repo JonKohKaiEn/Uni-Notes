@@ -13,8 +13,6 @@
 - $I_{bias} = I_{+} = I_{-} = 0$
 	- Virtual open
 - Output resistance $R_{out} = 0$
-- $v_{+}=v_{-}$
-	- Virtual short
 - Bandwidth $BW = \infty$
 - Slew rate $\frac{dV_{out}}{dt} = SR = \infty$
 	- No delay between input and output
@@ -26,5 +24,6 @@ Only negative feedback is tested in the course :)
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
 - For ideal op-amp with negative feedback, $v_{-} - v_{+} = 0$
-- $I_{-} = I_{+} = 0$
+	- $I_{-} = I_{+} = 0$
+	- Since there is no current flow between the inputs, there is no potential difference
 	- Therefore, 
