@@ -53,3 +53,5 @@ Size is inferred when used in block matrices
 - Upper triangular matrix
 	- $A_{ij}=0$ for $i \gt j$
 # Operations
+## Transpose
+$(A^T)_$
