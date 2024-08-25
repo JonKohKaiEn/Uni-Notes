@@ -66,3 +66,12 @@ $$
 \large
 \therefore \frac{v_{in} - v_{-}}{R_{1}} = \frac{v_{-} - v_{out}}{R_{2}}
 $$
+$$
+\large
+\frac{v_{in}}{R_{1}} = - \frac{v_{out}}{R_{2}}
+$$
+$$
+\large
+\color{red}
+\frac{v_{out}}{v_{in}} = - \frac{R_{2}}{R_{1}} = A_{vCL}
+$$
