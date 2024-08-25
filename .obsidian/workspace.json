@@ -163,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7c6ff2cf6bf67ba",
+  "active": "a04582374710795c",
   "lastOpenFiles": [
+    "Pasted image 20240825215820.png",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
+    "Year 3/EE2102 - Analog Electronics/Resources/Pasted image 20240825215858.png",
+    "Year 3/EE2102 - Analog Electronics/Resources",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
     "Year 3/IE2107 - Engineering Maths 2/Matrices.md",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra",
     "Year 3/IE2107 - Engineering Maths 2",
@@ -199,7 +202,6 @@
     "Year 2/S2 (LTU)/S7012E - Digital Communications/2 - Matched Filters and Bandwidth.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/1 - Introduction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources",
-    "Year 2/S2 (LTU)/S7012E - Digital Communications"
+    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources"
   ]
 }
