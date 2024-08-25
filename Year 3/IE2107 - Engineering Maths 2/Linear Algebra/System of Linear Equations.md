@@ -39,18 +39,20 @@ Performing EROs will not change the solution of the linear system
 	- Each pivot is a 1
 	- The pivot is the only non-zero value in its column
 ## Gaussian Elimination
-Reduces a matrix to row echelon (RE) form
+Converts a matrix to row echelon (RE) form
 ### Steps
 1) Re-arrange rows such that it is easier to do the reduction (pivot of first row is 1)
 2) For each row n, eliminate all values below the pivot of row n
 3) Stop when matrix is in RE form
 ### Cases
-- Number of rows = Number of variables
+- Number of non-zero rows = Number of variables
 	- Use back-substitution to solve system
-- Number of rows < Number of variables
+- Number of non-zero rows < Number of variables
 	- Multiple solutions
 	- Choose one variable to be a free variable, then use back-substitution
 - Last row has contradiction
 	- No solution
 ## Gauss-Jordan Elimination
 ### Steps
+1) Use Gaussian Elimination to convert the matrix to RE form
+2) 
