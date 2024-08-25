@@ -2,15 +2,17 @@
 - Inverting input
 - Non-inverting input
 - Output
-- $V_{DD}$, $V_{SS}$ (not usually included)
+- $V_{DD}$ or $V_{CC}$, $V_{SS}$ or $V_{EE}$ (not usually included)
 
 # Ideal Op-Amp
 ## Properties
-- Voltage gain $A_{vOL} = \infty$
-	- Open loop gain
+- Voltage gain (Open Loop) $A_{vOL} = \infty$
+	- The output voltage is bound by $V_{DD}$ and $V_{SS}$
+- Input resistance $R_{in} = \infty$
+	- Re
 - $v_{+}=v_{-}$
 	- Virtual short
-- $I_{+}=I_{-}=0$
+- $I_{bias} = I_{+} = I_{-} = 0$
 	- Virtual open
 - Input differential resistance $R_{in} = \infty$
 - Output resistance $R_{out} = 0$
