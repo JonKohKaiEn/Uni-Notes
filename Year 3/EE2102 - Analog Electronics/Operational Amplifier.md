@@ -25,4 +25,7 @@ Only negative feedback is tested in the course :)
 ![[Pasted image 20240825215858.png]]
 - For ideal op-amp with negative feedback, $v_{\epsilon} = v_{-} - v_{+} = 0$
 - Since $I_{-} = I_{+} = 0$ , $v_{\epsilon} = 0$ , $R_{in} = \infty$
-	- 
+	- $v_{+} = v_{-}$
+	- Since positive terminal is connected to ground, $v_{+} = 0$
+	- Therefore, $v_{-} = 0$
+- $v_{in} - v_{-}$
