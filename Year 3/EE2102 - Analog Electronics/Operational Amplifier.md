@@ -7,15 +7,14 @@
 # Ideal Op-Amp
 ## Properties
 - Voltage gain (Open Loop) $A_{vOL} = \infty$
-	- The output voltage is bound by $V_{DD}$ and $V_{SS}$
+	-  The output voltage is bound by $V_{DD}$ and $V_{SS}$
 - Input resistance $R_{in} = \infty$
-	- Re
-- $v_{+}=v_{-}$
-	- Virtual short
+	- Resistance between the two inputs
 - $I_{bias} = I_{+} = I_{-} = 0$
 	- Virtual open
-- Input differential resistance $R_{in} = \infty$
 - Output resistance $R_{out} = 0$
+- $v_{+}=v_{-}$
+	- Virtual short
 - Bandwidth $BW = \infty$
 - Slew rate $\frac{dV_{out}}{dt} = SR = \infty$
 	- No delay between input and output
