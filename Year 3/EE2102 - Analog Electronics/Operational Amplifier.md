@@ -25,4 +25,6 @@ Only negative feedback is tested in the course :)
 
 ### Inverting Gain Amplifier
 ![[Pasted image 20240825215858.png]]
+- When in negative feedback, $v_{-} - v_{+} \approx 0$
+	- As $A_{vOL} \rightarrow \infty$ , $v_{-} - v_{+} \rightarrow 0$
 - 
