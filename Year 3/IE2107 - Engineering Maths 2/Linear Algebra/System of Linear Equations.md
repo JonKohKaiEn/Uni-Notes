@@ -43,5 +43,14 @@ Reduces a matrix to row echelon (RE) form
 ### Steps
 1) Re-arrange rows such that it is easier to do the reduction (pivot of first row is 1)
 2) For each row n, eliminate all values below the pivot of row n
+3) Stop when matrix is in RE form
 ### Cases
-- Pivot of last row is in 
+- Number of rows = Number of variables
+	- Use back-substitution to solve system
+- Number of rows < Number of variables
+	- Multiple solutions
+	- Choose one variable to be a free variable, then use back-substitution
+- Last row has contradiction
+	- No solution
+## Gauss-Jordan Elimination
+### Steps
