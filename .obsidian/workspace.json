@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b2c34e169a0d79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/System of Linear Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7c6ff2cf6bf67ba",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
