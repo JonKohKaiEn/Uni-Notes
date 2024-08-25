@@ -19,3 +19,4 @@ $$
 - An $n \times 1$ matrix is considered to be an n-vector
 - A $1 \times n$ matrix is called a row vector
 - A $1 \times 1$ matrix is considered a number
+## Block Matrices
