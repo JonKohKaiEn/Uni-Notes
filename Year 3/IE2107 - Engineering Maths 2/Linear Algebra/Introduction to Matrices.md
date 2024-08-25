@@ -51,4 +51,5 @@ Size is inferred when used in block matrices
 - Lower triangular matrix
 	- $A_{ij}=0$ for $i \lt j$
 - Upper triangular matrix
-	- 
+	- $A_{ij}=0$ for $i \gt j$
+# Operations
