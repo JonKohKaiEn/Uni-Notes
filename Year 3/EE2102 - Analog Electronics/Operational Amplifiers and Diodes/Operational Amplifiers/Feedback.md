@@ -1,0 +1,10 @@
+Only negative feedback is tested in the course :)
+- The feedback will always go into the inverting input
+### Non-inverting Gain Amplifier
+![[Non-inverting Gain Amplifier.png]]
+- Negative terminal to GND
+- $\large A_{vCL} = \frac{v_{out}}{v_{in}} = 1 + \frac{R_{2}}{R_{1}}$
+### Inverting Gain Amplifier
+![[Inverting Gain Amplifier.png]]
+- Positive terminal to GND
+- $\large A_{vCL} = \frac{v_{out}}{v_{in}} = - \frac{R_{2}}{R_{1}}$

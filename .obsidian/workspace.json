@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Slew Rate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Slew Rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Slew Rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md"
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Slew Rate.md"
               }
             }
           },
@@ -163,12 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04582374710795c",
+  "active": "d7c6ff2cf6bf67ba",
   "lastOpenFiles": [
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Feedback.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Slew Rate.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes",
     "Year 3/EE2102 - Analog Electronics/Resources/Inverting Gain Amplifier.png",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Non-inverting Gain Amplifier.png",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
     "Pasted image 20240825215820.png",
@@ -202,8 +204,6 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 1 - Introduction.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/4 - Encoding.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/3 - Baseband and Passband Signals.md",
-    "Year 2/S2 (LTU)/S7012E - Digital Communications/2 - Matched Filters and Bandwidth.md",
-    "Year 2/S2 (LTU)/S7012E - Digital Communications/1 - Introduction.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly"
+    "Year 2/S2 (LTU)/S7012E - Digital Communications/2 - Matched Filters and Bandwidth.md"
   ]
 }
