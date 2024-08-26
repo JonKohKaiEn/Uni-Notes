@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md"
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7c6ff2cf6bf67ba",
+  "active": "a04582374710795c",
   "lastOpenFiles": [
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes",
     "Year 3/EE2102 - Analog Electronics/Resources/Inverting Gain Amplifier.png",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifier.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Non-inverting Gain Amplifier.png",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Introduction to Matrices.md",
     "Pasted image 20240825215820.png",
@@ -201,7 +204,6 @@
     "Year 2/S2 (LTU)/S7012E - Digital Communications/3 - Baseband and Passband Signals.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/2 - Matched Filters and Bandwidth.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/1 - Introduction.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources"
+    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly"
   ]
 }
