@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md"
+                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "d7c6ff2cf6bf67ba",
   "lastOpenFiles": [
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Slew Rate.md",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Feedback.md",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/Introduction to Operational Amplifiers.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes",
     "Year 3/EE2102 - Analog Electronics/Resources/Inverting Gain Amplifier.png",
