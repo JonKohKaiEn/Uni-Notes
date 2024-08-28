@@ -20,4 +20,5 @@ For a stable system, the total time response $y(t) = y_{t}(t) + y_{ss}(t)$
 - Unit-step response
 	- $\large r(t) = u(t) \rightarrow R(s) = \frac{1}{s}$
 	- $\large Y(s) = \frac{1}{\tau s + 1} \frac{1}{s} = \frac{1}{s}-\frac{\tau}{\tau s + 1}$
-	- 
+	- $\large y(t) = 1 - e^{\frac{t}{\tau}}, \text{where} \: t \ge 0$
+	- $\tau$ is the time constant
