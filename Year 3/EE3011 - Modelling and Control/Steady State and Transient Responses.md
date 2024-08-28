@@ -6,8 +6,9 @@ For a stable system, the total time response $y(t) = y_{t}(t) + y_{ss}(t)$
 - $y_{ss}(t)$ : Steady-state response
 	- Follow the input signal as close as possible
 # Test Signals
-| Name    | Function      |
-| ------- | ------------- |
-| Impulse | $a\delta (t)$ |
-| Step    | $au(t)$       |
-| Ramp    | $$            |
+| Name    | Function                             |
+| ------- | ------------------------------------ |
+| Impulse | $a\delta (t)$                        |
+| Step    | $au(t)$                              |
+| Ramp    | $at \quad \text{when} \quad t \ge 0$ |
+|         |                                      |
