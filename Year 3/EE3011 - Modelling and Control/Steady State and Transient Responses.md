@@ -6,4 +6,6 @@ For a stable system, the total time response $y(t) = y_{t}(t) + y_{ss}(t)$
 - $y_{ss}(t)$ : Steady-state response
 	- Follow the input signal as close as possible
 # Test Signals
-|Name
+| Name | Function |
+| ---- | -------- |
+|      |          |
