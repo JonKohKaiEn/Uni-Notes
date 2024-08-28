@@ -1,9 +1,9 @@
 In time domain analysis, we apply a reference input signal to a system and evaluate the system's response in the time domain
 
-| Time Domain Analysis | Frequency Domain Analysis |
-| -------------------- | ------------------------- |
-| Impulse              | Sinusoidal                |
-| Step                 |                           |
-| Slope                |                           |
-| Parabolic functions  |                           |
-For a stable system, the total time response $y(t) = y_{}$
+For a stable system, the total time response $y(t) = y_{t}(t) + y_{ss}(t)$
+- $y_{t}(t)$ : Transient Response
+	- Should be as short as possible
+- $y_{ss}(t)$ : Steady-state response
+	- Follow the input signal as close as possible
+# Test Signals
+|Name
