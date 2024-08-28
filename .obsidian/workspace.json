@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
+                "file": "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md"
+                "file": "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +165,10 @@
   },
   "active": "d7c6ff2cf6bf67ba",
   "lastOpenFiles": [
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
+    "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes",
     "Year 3/EE2102 - Analog Electronics/Resources/Inverting Gain Amplifier.png",
@@ -202,7 +204,6 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources/Energy-band-structure-of-Si-and-GaAs-5.png",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 1 - Introduction.md",
     "Year 2/S2 (LTU)/S7012E - Digital Communications/4 - Encoding.md",
-    "Year 2/S2 (LTU)/S7012E - Digital Communications/3 - Baseband and Passband Signals.md",
-    "Year 2/S2 (LTU)/S7012E - Digital Communications/2 - Matched Filters and Bandwidth.md"
+    "Year 2/S2 (LTU)/S7012E - Digital Communications/3 - Baseband and Passband Signals.md"
   ]
 }
