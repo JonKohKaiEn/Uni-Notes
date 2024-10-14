@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
+                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c601842cee9c6117",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
+                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
+                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md"
+                "file": "Year 3/CM5002 - Forensic Science/DNA.md"
               }
             }
           },
@@ -163,12 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eabef46e36a8c65e",
+  "active": "d7c6ff2cf6bf67ba",
   "lastOpenFiles": [
+    "Year 3/CM5002 - Forensic Science/Molecules.md",
+    "Year 3/CM5002 - Forensic Science/DNA.md",
+    "Year 3/CM5002 - Forensic Science/Time of Death.md",
+    "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
-    "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
     "Year 3/IE2107 - Engineering Maths 2/Linear Algebra/Matrix Algebra.md",
     "Year 3/CM5002 - Forensic Science",
     "Year 3/IE2107 - Engineering Maths 2/Resources/Pasted image 20240911121758.png",
@@ -207,9 +211,6 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 6 - Semiconductor in Non-Equilibrium.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 8 - Electrostatics of P-N Junction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 5 - Carrier Transport in Semiconductors.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 3 & 4 - Semiconductor in Equilibrium.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 12 - Metal-semiconductor Contact and Metal Oxide Semiconductor.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 2 - Intrinsic and Extrinsic Carriers.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources/Energy-band-structure-of-Si-and-GaAs-5.png"
   ]
 }
