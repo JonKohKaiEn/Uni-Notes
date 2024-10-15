@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
+                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c601842cee9c6117",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
+                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
+                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/DNA.md"
+                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md"
               }
             }
           },
@@ -151,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +166,10 @@
   },
   "active": "d7c6ff2cf6bf67ba",
   "lastOpenFiles": [
-    "Year 3/CM5002 - Forensic Science/Molecules.md",
-    "Year 3/CM5002 - Forensic Science/DNA.md",
-    "Year 3/CM5002 - Forensic Science/Time of Death.md",
     "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+    "Year 3/CM5002 - Forensic Science/Molecules.md",
+    "Year 3/CM5002 - Forensic Science/Time of Death.md",
+    "Year 3/CM5002 - Forensic Science/DNA.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/1. Introduction to Operational Amplifiers.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/3. Slew Rate.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers/2. Feedback.md",
