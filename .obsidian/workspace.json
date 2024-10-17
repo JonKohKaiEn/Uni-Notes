@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+                "file": "Year 3/IE2110 - Signals and Systems/Part 1/Elementary and Singularity Signals.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Elementary and Singularity Signals"
+            }
+          },
+          {
+            "id": "8182303d1bfa53f5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Year 3/IE2110 - Signals and Systems/Resources/Unit Impulse.png"
+              },
+              "icon": "lucide-image",
+              "title": "Unit Impulse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+                "file": "Year 3/IE2110 - Signals and Systems/Resources/Unit Impulse.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unit Impulse"
             }
           },
           {
@@ -102,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+                "file": "Year 3/IE2110 - Signals and Systems/Resources/Unit Impulse.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unit Impulse"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md"
-              }
+                "file": "Year 3/IE2110 - Signals and Systems/Resources/Unit Impulse.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unit Impulse"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -142,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -150,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +196,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7c6ff2cf6bf67ba",
+  "active": "a04582374710795c",
   "lastOpenFiles": [
+    "Year 3/IE2110 - Signals and Systems/Resources/Drawing 2024-10-17 23.42.06.excalidraw.md",
+    "Year 3/IE2110 - Signals and Systems/Part 1/Elementary and Singularity Signals.md",
+    "Year 3/IE2110 - Signals and Systems/Resources/Unit Impulse.png",
+    "Excalidraw/Drawing 2024-10-17 23.41.34.excalidraw.md",
+    "Excalidraw",
+    "Year 3/IE2110 - Signals and Systems/Part 1/Classification of Signals.md",
+    "Year 3/IE2110 - Signals and Systems/Resources/Deterministic vs Random.png",
+    "Year 3/IE2110 - Signals and Systems/Resources/CV vs DV.png",
+    "Year 3/IE2110 - Signals and Systems/Resources",
+    "Year 3/IE2110 - Signals and Systems/Resources/CT vs DT.png",
     "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+    "Year 3/IE2110 - Signals and Systems/Part 1",
+    "Year 3/IE2110 - Signals and Systems",
     "Year 3/CM5002 - Forensic Science/Molecules.md",
     "Year 3/CM5002 - Forensic Science/Time of Death.md",
     "Year 3/CM5002 - Forensic Science/DNA.md",
@@ -185,7 +229,6 @@
     "Year 3/IE2107 - Engineering Maths 2/Resources",
     "Year 3/IE2107 - Engineering Maths 2/Resources/Pasted image 20240911114918.png",
     "Excalidraw/Drawing 2024-09-10 20.17.16.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-09-10 20.14.51.excalidraw.md",
     "Ink/Drawing/2024.9.10 - 20.11pm.drawing",
     "Ink/Drawing",
@@ -194,23 +237,11 @@
     "Year 3/EE3011 - Modelling and Control/Introduction.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Bandwidth.png",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Operational Amplifiers",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes",
-    "Year 3/EE2102 - Analog Electronics/Resources/Inverting Gain Amplifier.png",
-    "Year 3/EE2102 - Analog Electronics/Resources/Non-inverting Gain Amplifier.png",
-    "Pasted image 20240825215820.png",
-    "Year 3/EE2102 - Analog Electronics/Resources",
     "Year 3/IE2107 - Engineering Maths 2/Matrices.md",
-    "Year 3/IE2107 - Engineering Maths 2/Linear Algebra",
     "Welcome.md",
     "Year 1/IE1005/Standard Library Functions.md",
     "Year 1/IE1005/Loops.md",
     "Year 1/IE1005/How to Code.md",
-    "Year 1/IE1005/Functions.md",
-    "Year 1/IE1005/Basic Datatypes.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 9 - Effect of an Externally Applied Voltage on the P-N Junction.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 6 - Semiconductor in Non-Equilibrium.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 8 - Electrostatics of P-N Junction.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 5 - Carrier Transport in Semiconductors.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Resources/Energy-band-structure-of-Si-and-GaAs-5.png"
+    "Year 1/IE1005/Functions.md"
   ]
 }
