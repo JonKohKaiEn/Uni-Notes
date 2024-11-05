@@ -33,4 +33,4 @@
 	- Nerve agent
 		- Causes an excess of neurotransmitters
 - Atrophine
-	- Antidote to Sarin
+	- Antidote to Sarin, but can also be used as a poison
