@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "DNA"
             }
+          },
+          {
+            "id": "25266adb7c9a6c69",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +200,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7c6ff2cf6bf67ba",
+  "active": "eabef46e36a8c65e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Year 3/CM5002 - Forensic Science/DNA.md",
+    "Year 4/LK5001/Resources/Vowels.png",
+    "Year 4/LK5001/Resources/Consonants.png",
+    "Year 4/LK5001/Resources",
+    "Year 4/LK5001/Hangeul.md",
+    "Year 4/LK5001",
+    "Year 4",
     "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
     "Year 3/CM5002 - Forensic Science/Polymers.md",
     "Year 3/CM5002 - Forensic Science/Time of Death.md",
@@ -199,7 +221,6 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 6 - Semiconductor in Non-Equilibrium.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 9 - Effect of an Externally Applied Voltage on the P-N Junction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 8 - Electrostatics of P-N Junction.md",
-    "Year 3/CM5002 - Forensic Science/DNA.md",
     "Year 3/CM5002 - Forensic Science/Firearms.md",
     "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
     "Year 3/EE3011 - Modelling and Control/Introduction.md",
@@ -224,15 +245,8 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 11 - Capacitance and Breakdown of P-N Junction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 10 - Ideal Diode Eqn, BJT, LED.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Diode regions.png",
-    "Year 3/EE2102 - Analog Electronics/Resources/Current bias.png",
-    "Year 3/EE2102 - Analog Electronics/Resources/DC offset.png",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Diodes/Operating Regions of Non-Ideal Diodes.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 2 - Intrinsic and Extrinsic Carriers.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Diodes",
     "Excalidraw",
-    "Year 3/IE2110 - Signals and Systems/Resources",
-    "Year 3/IE2110 - Signals and Systems/Part 1",
-    "Year 3/IE2110 - Signals and Systems",
-    "Year 3/CM5002 - Forensic Science"
+    "Year 3/IE2110 - Signals and Systems/Resources"
   ]
 }
