@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae130f11ba0d87a",
+        "id": "eccf5110c7a53104",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c6ff2cf6bf67ba",
+            "id": "f66fb1f9f6314ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
+                "file": "Year 4/LK5001/Hangeul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA"
+              "title": "Hangeul"
             }
           }
         ]
@@ -171,10 +171,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,26 +187,32 @@
       "templates:Insert template": false
     }
   },
-  "active": "d7c6ff2cf6bf67ba",
+  "active": "f66fb1f9f6314ca7",
   "lastOpenFiles": [
-    "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
-    "Year 3/CM5002 - Forensic Science/Polymers.md",
-    "Year 3/CM5002 - Forensic Science/Time of Death.md",
+    "Year 4/LK5001/Resources/Consonants.png",
+    "Year 4/LK5001/Hangeul.md",
+    "Year 4/LK5001/Resources/Vowels.png",
+    "Year 4/LK5001/Resources",
     "Year 3/CM5002 - Forensic Science/Blood.md",
+    "Year 4/LK5001",
+    "Year 4",
+    "Year 3/CM5002 - Forensic Science/Resources/Blood Droplet Patterns.png",
+    "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
+    "Year 3/CM5002 - Forensic Science/Resources/AAS.md",
     "Year 3/CM5002 - Forensic Science/Toxicology.md",
+    "Year 3/CM5002 - Forensic Science/Time of Death.md",
+    "Year 3/CM5002 - Forensic Science/Polymers.md",
     "Year 3/CM5002 - Forensic Science/Molecules.md",
+    "Year 3/CM5002 - Forensic Science/Firearms.md",
+    "Year 3/CM5002 - Forensic Science/DNA.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 3 & 4 - Semiconductor in Equilibrium.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 5 - Carrier Transport in Semiconductors.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 6 - Semiconductor in Non-Equilibrium.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 9 - Effect of an Externally Applied Voltage on the P-N Junction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 8 - Electrostatics of P-N Junction.md",
-    "Year 3/CM5002 - Forensic Science/DNA.md",
-    "Year 3/CM5002 - Forensic Science/Firearms.md",
     "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
     "Year 3/EE3011 - Modelling and Control/Introduction.md",
-    "Year 3/CM5002 - Forensic Science/Resources/AAS.md",
     "Year 3/CM5002 - Forensic Science/Resources",
-    "Year 3/CM5002 - Forensic Science/Resources/Blood Droplet Patterns.png",
     "Year 3/CM5002 - Forensic Science/Mixtures and Compounds.md",
     "Year 3/EE2102 - Analog Electronics/Small-Signal Amplifiers/BJT/Operating Regions.md",
     "Year 3/EE2102 - Analog Electronics/Resources/BJT Operating Regions.png",
@@ -221,15 +231,8 @@
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 11 - Capacitance and Breakdown of P-N Junction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 10 - Ideal Diode Eqn, BJT, LED.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Diode regions.png",
-    "Year 3/EE2102 - Analog Electronics/Resources/Current bias.png",
-    "Year 3/EE2102 - Analog Electronics/Resources/DC offset.png",
-    "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Diodes/Operating Regions of Non-Ideal Diodes.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 2 - Intrinsic and Extrinsic Carriers.md",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Diodes",
     "Excalidraw",
-    "Year 3/IE2110 - Signals and Systems/Resources",
-    "Year 3/IE2110 - Signals and Systems/Part 1",
-    "Year 3/IE2110 - Signals and Systems",
-    "Year 3/CM5002 - Forensic Science"
+    "Year 3/IE2110 - Signals and Systems/Resources"
   ]
 }
