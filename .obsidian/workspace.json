@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae130f11ba0d87a",
+        "id": "5716ef9e590836e6",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c6ff2cf6bf67ba",
+            "id": "eb89fdfe0686acc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/CM5002 - Forensic Science/DNA.md",
+                "file": "Year 4/EE4268/Coordinate Frames.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA"
-            }
-          },
-          {
-            "id": "25266adb7c9a6c69",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Coordinate Frames"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,14 +186,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eabef46e36a8c65e",
+  "active": "eb89fdfe0686acc9",
   "lastOpenFiles": [
+    "Year 4/LK5001/Hangeul.md",
+    "Year 4/EE4268/Coordinate Frames.md",
+    "Year 4/EE4268",
     "conflict-files-obsidian-git.md",
     "Year 3/CM5002 - Forensic Science/DNA.md",
     "Year 4/LK5001/Resources/Vowels.png",
     "Year 4/LK5001/Resources/Consonants.png",
     "Year 4/LK5001/Resources",
-    "Year 4/LK5001/Hangeul.md",
     "Year 4/LK5001",
     "Year 4",
     "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
@@ -243,10 +231,8 @@
     "Year 3/EE2102 - Analog Electronics/Resources/Diode analysis eg.png",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 1 - Introduction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 11 - Capacitance and Breakdown of P-N Junction.md",
-    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 10 - Ideal Diode Eqn, BJT, LED.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Diode regions.png",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Diodes",
-    "Excalidraw",
-    "Year 3/IE2110 - Signals and Systems/Resources"
+    "Excalidraw"
   ]
 }
