@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5716ef9e590836e6",
+        "id": "eaba1d34f49cc31c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb89fdfe0686acc9",
+            "id": "0c7c1ffc09d75a76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Year 4/EE4268/Coordinate Frames.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "Coordinate Frames"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -78,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c601842cee9c6117",
@@ -162,8 +162,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -176,45 +176,44 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templates:Insert template": false
     }
   },
-  "active": "eb89fdfe0686acc9",
+  "active": "0c7c1ffc09d75a76",
   "lastOpenFiles": [
-    "Year 4/LK5001/Hangeul.md",
     "Year 4/EE4268/Coordinate Frames.md",
+    "Year 4/LK5001/Hangeul.md",
     "Year 4/EE4268",
-    "conflict-files-obsidian-git.md",
-    "Year 3/CM5002 - Forensic Science/DNA.md",
-    "Year 4/LK5001/Resources/Vowels.png",
     "Year 4/LK5001/Resources/Consonants.png",
+    "Year 4/LK5001/Resources/Vowels.png",
     "Year 4/LK5001/Resources",
+    "Year 3/CM5002 - Forensic Science/Blood.md",
     "Year 4/LK5001",
     "Year 4",
+    "Year 3/CM5002 - Forensic Science/Resources/Blood Droplet Patterns.png",
     "Year 3/CM5002 - Forensic Science/Spectroscopy and Structure of Atoms.md",
-    "Year 3/CM5002 - Forensic Science/Polymers.md",
-    "Year 3/CM5002 - Forensic Science/Time of Death.md",
-    "Year 3/CM5002 - Forensic Science/Blood.md",
+    "Year 3/CM5002 - Forensic Science/Resources/AAS.md",
     "Year 3/CM5002 - Forensic Science/Toxicology.md",
+    "Year 3/CM5002 - Forensic Science/Time of Death.md",
+    "Year 3/CM5002 - Forensic Science/Polymers.md",
     "Year 3/CM5002 - Forensic Science/Molecules.md",
+    "Year 3/CM5002 - Forensic Science/Firearms.md",
+    "Year 3/CM5002 - Forensic Science/DNA.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 3 & 4 - Semiconductor in Equilibrium.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 5 - Carrier Transport in Semiconductors.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 6 - Semiconductor in Non-Equilibrium.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 9 - Effect of an Externally Applied Voltage on the P-N Junction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 8 - Electrostatics of P-N Junction.md",
-    "Year 3/CM5002 - Forensic Science/Firearms.md",
     "Year 3/EE3011 - Modelling and Control/Steady State and Transient Responses.md",
     "Year 3/EE3011 - Modelling and Control/Introduction.md",
-    "Year 3/CM5002 - Forensic Science/Resources/AAS.md",
     "Year 3/CM5002 - Forensic Science/Resources",
-    "Year 3/CM5002 - Forensic Science/Resources/Blood Droplet Patterns.png",
     "Year 3/CM5002 - Forensic Science/Mixtures and Compounds.md",
     "Year 3/EE2102 - Analog Electronics/Small-Signal Amplifiers/BJT/Operating Regions.md",
     "Year 3/EE2102 - Analog Electronics/Resources/BJT Operating Regions.png",
@@ -231,6 +230,7 @@
     "Year 3/EE2102 - Analog Electronics/Resources/Diode analysis eg.png",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 1 - Introduction.md",
     "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 11 - Capacitance and Breakdown of P-N Junction.md",
+    "Year 2/S1/EE2103 - Semiconductor Fundamentals/Weekly/Week 10 - Ideal Diode Eqn, BJT, LED.md",
     "Year 3/EE2102 - Analog Electronics/Resources/Diode regions.png",
     "Year 3/EE2102 - Analog Electronics/Operational Amplifiers and Diodes/Diodes",
     "Excalidraw"

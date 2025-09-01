@@ -10,5 +10,7 @@ Then
 - $[p]_{k}^{x} = p \cdot x^{k}$
 	- The magnitude of a vector w.r.t an axis vector can be extracted by getting the dot product of a vector and the axis vector (projection of $p$ on $x^k$)
 # Coordinate Transformations
+## Rotational Transforms
 Let
-- $F = \{f^{1}, f^{2},..., f^{n}\}$ and $M = \{m^{1}, m^{2},..., m^{n}\}$ be coordinate frames in 
+- $F = \{f^{1}, f^{2},..., f^{n}\}$ and $M = \{m^{1}, m^{2},..., m^{n}\}$ be coordinate frames in $R^n$
+- $F$  and $M$ are orthonormal sets
